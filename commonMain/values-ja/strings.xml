@@ -157,7 +157,7 @@
     <string name="find_opponent">敵を探す</string>
     <string name="leave_matchmaking">マッチメイキング終了</string>
     <string name="searching_ellipsis">探しています…</string>
-    <string name="x_searching_y_playing">%1$試合が探し中 · %2$s試合が進行中</string>
+    <string name="x_searching_y_playing">%1$s試合が探し中 · %2$s試合が進行中</string>
     <string name="global_position">グローバルランキング: #%s</string>
     <string name="global_label">グローバルランキング: #</string>
     <string name="wins_draws_losses_winrate">勝利数: %1$s · 引分数: %2$s · 敗戦数: %3$s · Win rate: %4$s%%</string>
