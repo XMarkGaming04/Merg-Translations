@@ -806,7 +806,7 @@
     <string name="recovery_change_mail">Alterar e-mail</string>
     <string name="recovery_confirm_title">Alterar o e-mail da conta?</string>
     <string name="recovery_confirm_body">Você está prestes a alterar o e-mail nesta conta para %1$s. Após isso, será possível entrar com a conta do Google correspondente. Esta ação é irreversível.</string>
-    <string name="recovery_success_body">O endereço de e-mail da conta foi alterado para %1$s. Você já pode entrad com a sua nova conta do Google.</string>
+    <string name="recovery_success_body">O endereço de e-mail da conta foi alterado para %1$s. Você já pode entrar com a sua nova conta do Google.</string>
     <string name="recovery_error_invalid_id">Insira um ID de conta válido.</string>
     <string name="recovery_error_invalid_email">Insira um endereço de e-mail válido.</string>
     <string name="recovery_error_invalid_request">Solicitação inválida. Tente novamente.</string>
