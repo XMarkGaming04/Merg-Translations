@@ -243,7 +243,7 @@
     <string name="change_name">Alterar Nome</string>
     <string name="copy_id">Copiar ID</string>
     <string name="share_id">Compartilhar ID</string>
-    <string name="share_id_message">Me adicione no Merg! Esse é o meu ID: %1$s</string>
+    <string name="share_id_message">Me adicione no Merg! Este é o meu ID: %1$s</string>
     <string name="created">Criou em: %s</string>
     <string name="last_seen">Visto(a) por último: %s</string>
     <string name="save_profile_description">Salvar Biografia</string>
@@ -796,7 +796,7 @@
 
     <!-- Account recovery -->
     <string name="account_recovery">Recuperação de Contas</string>
-    <string name="recovery_info">É necessário que você esteja usando mesmo Wi-Fi e dispositivo, caso contrário o processo de recuperação poderá falhar.</string>
+    <string name="recovery_info">É necessário que você esteja usando o mesmo Wi-Fi e dispositivo, caso contrário o processo de recuperação poderá falhar.</string>
     <string name="recovery_continue">Continuar</string>
     <string name="recovery_enter_account_id">Insira o ID da conta</string>
     <string name="recovery_account_id_placeholder">ID da Conta</string>
@@ -805,7 +805,7 @@
     <string name="recovery_new_email_placeholder">novo@exemplo.com</string>
     <string name="recovery_change_mail">Alterar e-mail</string>
     <string name="recovery_confirm_title">Alterar o e-mail da conta?</string>
-    <string name="recovery_confirm_body">Você está prestes a alterar o e-mail nesta conta para %1$s. Após isso, será possível entrar com a conta do Google correspondente. Esta ação é irreversível.</string>
+    <string name="recovery_confirm_body">Você está prestes a alterar o e-mail nesta conta para %1$s. Após isso, será possível entrar com a conta do Google correspondente. Essa ação é irreversível.</string>
     <string name="recovery_success_body">O endereço de e-mail da conta foi alterado para %1$s. Você já pode entrar com a sua nova conta do Google.</string>
     <string name="recovery_error_invalid_id">Insira um ID de conta válido.</string>
     <string name="recovery_error_invalid_email">Insira um endereço de e-mail válido.</string>
