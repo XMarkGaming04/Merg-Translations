@@ -154,7 +154,7 @@
     <string name="competitive_history">バトルモードの履歴</string>
     <string name="rating_label">ランキング</string>
     <string name="unrated">ランキングなし</string>
-    <string name="find_opponent">敵を探す</string>
+    <string name="find_opponent">対戦相手を探す</string>
     <string name="leave_matchmaking">マッチメイキング終了</string>
     <string name="searching_ellipsis">探しています…</string>
     <string name="x_searching_y_playing">%1$s試合が探し中 · %2$s試合が進行中</string>
@@ -556,7 +556,7 @@
     <string name="description_adventure">ユニークな目的のアドベンチャーステージをクリアしよう！難易度はステージが進むにつれて上がり、ボーナスを獲得し、スキルを披露しよう！各ステージで難易度が上がる！</string>
     <string name="description_soccer">ボールを敵のゴールにシュートしよう。タイムアップ時に最も多くのゴールを決めているチームが勝利する！</string>
     <string name="description_coming_soon">このゲームモードは近日公開予定です。続報をお待ちください！</string>
-    <string name="description_competitive">1対1のランキング戦サバイバル！同じくらいのスキルの敵を倒して、ランキングに入ろう。2人のプレイヤーが生存した場合、3分間のマッチと2分間の延長時間が得られる。勝ってグローバルランキングを駆け上がり、負けたら下がってしまう。ランキングの変動は2人のプレイヤーのスキル差によって決まる。</string>
+    <string name="description_competitive">1対1のランキング戦サバイバル！同じくらいのスキルの相手を倒して、ランキングに入ろう。2人のプレイヤーが生存した場合、3分間のマッチと2分間の延長時間が得られる。勝ってグローバルランキングを駆け上がり、負けたら下がってしまう。ランキングの変動は2人のプレイヤーのスキル差によって決まる。</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">極小</string>
