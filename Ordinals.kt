@@ -9,11 +9,13 @@
                 this % 10 == 3 -> context.getString(R.string.ordinal_third, this) // 3rd, 23rd, 33rd, etc.
                 else -> context.getString(R.string.ordinal_fallback, this) // 4th, 5th, 6th, etc (everything else)
             }
+            Language.CHINESE -> context.getString(R.string.ordinal_fallback, this) // everything the same
             Language.ITALIAN -> context.getString(R.string.ordinal_fallback, this) // everything the same
             Language.JAPANESE -> context.getString(R.string.ordinal_fallback, this) // everything the same
+            Language.KOREAN -> context.getString(R.string.ordinal_fallback, this) // everything the same
             Language.PORTUGUESE -> context.getString(R.string.ordinal_fallback, this) // everything the same
             Language.SPANISH -> context.getString(R.string.ordinal_fallback, this) // everything the same
-            // Remaining: ARABIC, BENGALI, CHINESE, CZECH, DANISH, DUTCH, FILIPINO, FINNISH, FRENCH, GERMAN, GREEK, HINDI, INDONESIAN, KOREAN, POLISH, ROMANIAN, RUSSIAN, SWEDISH, THAI, TURKISH, VIETNAMESE
+            // Remaining: ARABIC, BENGALI, CZECH, DANISH, DUTCH, FILIPINO, FINNISH, FRENCH, GERMAN, GREEK, HINDI, INDONESIAN, POLISH, ROMANIAN, RUSSIAN, SWEDISH, THAI, TURKISH, VIETNAMESE
             else -> this.toString() // 1, 2, 3, etc.
         }
     }
