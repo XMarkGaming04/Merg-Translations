@@ -202,13 +202,13 @@
     <string name="reward_already_owned_compensation">利用しました。ボイドストーンに換算されました。</string>
     <string name="purchase_id">購入ID: %d</string>
     <string name="history">履歴</string>
-    <string name="voidstone_history">ボッストの履歴</string>
+    <string name="voidstone_history">ボドストの履歴</string>
     <string name="purchase_history">購入の履歴</string>
     <string name="no_transactions_yet">取引はありません</string>
     <string name="admin_reward">アドミンリワード</string>
     <string name="in_app_purchase">アプリ内購入</string>
-    <string name="voidstone_gift_received">ボイドストーンのギフト受取済</string>
-    <string name="voidstone_gift_send">ボイドストーンのギフトを贈る</string>
+    <string name="voidstone_gift_received">ボイドストーンギフト受取済</string>
+    <string name="voidstone_gift_send">ボイドストーンギフトを贈る</string>
     <string name="skin_bought">購入したスキン</string>
     <string name="profile_name_change_bought">名前の変更購入済み</string>
     <string name="profile_name_color_bought">ネームカラー購入済み</string>
@@ -289,35 +289,35 @@
     <string name="profile_delete_failed">削除できませんでした</string>
     <string name="name_color">ネームカラー</string>
     <string name="unlock_name_colors">ネームカラーアンロック</string>
-    <string name="unlock_name_colors_success">ネームカラーがアンロックされました！</string>
-    <string name="name_colors_already_unlocked">ネームのカラーは既にアンロックされています</string>
-    <string name="unlock_name_color_gradient_success">ネームグラデーションがアンロックされました！</string>
-    <string name="unlock_name_color_gradient_already_unlocked">ネームグラデーションは既にアンロックされています</string>
+    <string name="unlock_name_colors_success">『ネームカラー』をアンロックしました！</string>
+    <string name="name_colors_already_unlocked">『ネームカラー』はすでにアンロックされています</string>
+    <string name="unlock_name_color_gradient_success">『ネームグラデーション』をアンロックしました！</string>
+    <string name="unlock_name_color_gradient_already_unlocked">『ネームグラデーション』はすでにアンロックされています</string>
     <string name="name_color_save_success">ネームカラーの保存完了</string>
     <string name="name_color_save_failed">カラーが保存できませんでした</string>
-    <string name="name_colors_not_unlocked">ネームカラーがアンロックされていません</string>
+    <string name="name_colors_not_unlocked">『ネームカラー』はアンロックされていません</string>
     <string name="unlock_name_fonts">ネームフォントアンロック</string>
-    <string name="unlock_name_fonts_success">ネームフォントがアンロックされました！</string>
-    <string name="unlock_name_fonts_already_unlocked">ネームフォントは既にアンロックされています</string>
+    <string name="unlock_name_fonts_success">『ネームフォント』をアンロックしました！</string>
+    <string name="unlock_name_fonts_already_unlocked">『ネームフォント』はすでにアンロックされています</string>
     <string name="name_font_save_success">フォントの保存完了！</string>
-    <string name="name_fonts_not_unlocked">ネームフォントがアンロックされていません</string>
+    <string name="name_fonts_not_unlocked">『ネームフォント』はアンロックされていません</string>
     <string name="profile_name_font">ネームフォント</string>
-    <string name="name_change_success">名前が『%s』に変更されました</string>
+    <string name="name_change_success">名前を「%s」に変更しました</string>
     <string name="name_change_invalid_length">名前が長すぎます</string>
     <string name="name_change_taken">名前は使用されています</string>
     <string name="unlock_profile_colors">プロフィール背景カラーアンロック</string>
     <string name="unlock_profile_colors_gradient">グラデーションアンロック</string>
     <string name="unlock_profile_colors_gradient_2">3色のグラデーションアンロック</string>
-    <string name="unlock_profile_colors_success">プロフィールカラーがアンロックされました！</string>
-    <string name="unlock_profile_colors_gradient_success">グラデーションがアンロックされました！</string>
-    <string name="unlock_profile_colors_gradient_2_success">3色のグラデーションがアンロックされました！</string>
-    <string name="unlock_profile_colors_already_unlocked">プロフィール背景カラーは既にアンロックされています</string>
-    <string name="unlock_profile_colors_gradient_already_unlocked">プロフィール背景グラデーションは既にアンロックされています</string>
-    <string name="unlock_profile_colors_gradient_2_already_unlocked">プロフィール背景3色のグラデーションは既にアンロックされています</string>
+    <string name="unlock_profile_colors_success">『プロフィールカラー』をアンロックしました！</string>
+    <string name="unlock_profile_colors_gradient_success">『グラデーション』をアンロックしました！</string>
+    <string name="unlock_profile_colors_gradient_2_success">『3色のグラデーション』をアンロックしました！</string>
+    <string name="unlock_profile_colors_already_unlocked">『プロフィール背景カラー』はすでにアンロックされています</string>
+    <string name="unlock_profile_colors_gradient_already_unlocked">『プロフィール背景グラデーション』はすでにアンロックされています</string>
+    <string name="unlock_profile_colors_gradient_2_already_unlocked">『プロフィール背景3色のグラデーション』は既にアンロックされています</string>
     <string name="profile_color_save_success">プロフィール背景カラーの保存完了！</string>
-    <string name="unlock_profile_colors_not_unlocked">プロフィール背景カラーがアンロックされていません</string>
-    <string name="unlock_profile_colors_gradient_not_unlocked">プロフィール背景グラデーションがアンロックされていません</string>
-    <string name="unlock_profile_colors_gradient_2_not_unlocked">プロフィール背景3色のグラデーションがアンロックされていません</string>
+    <string name="unlock_profile_colors_not_unlocked">『プロフィール背景カラー』はアンロックされていません</string>
+    <string name="unlock_profile_colors_gradient_not_unlocked">『プロフィール背景グラデーション』はアンロックされていません</string>
+    <string name="unlock_profile_colors_gradient_2_not_unlocked">『プロフィール背景3色のグラデーション』はアンロックされていません</string>
     <string name="profile_color_save_failed">プロフィール背景カラーが保存できませんでした</string>
 
     <!-- Profile Tags -->
@@ -338,10 +338,10 @@
     <string name="send_voidstones_to">「%1$s」さん（ID %2$d）へボイドストーンを贈る</string>
     <string name="send_voidstones_confirm">「%2$s」さん（ID %3$d）へボイドストーンを%1$s枚贈りますか？</string>
     <string name="send_voidstones_self">自分宛てにボイドストーンを送れません</string>
-    <string name="voidstone_gift_from">「%1$s」さん（ID %2$d）からのボイドストーンのギフト</string>
-    <string name="voidstone_gift_to">「%1$s」さん（ID %2$d）へのボイドストーンのギフト</string>
-    <string name="voidstone_gift_from_label">ボイドストーンのギフトの贈り主:</string>
-    <string name="voidstone_gift_to_label">ボイドストーンのギフトの受取人:</string>
+    <string name="voidstone_gift_from">「%1$s」さん（ID %2$d）からのボイドストーンギフト</string>
+    <string name="voidstone_gift_to">「%1$s」さん（ID %2$d）へのボイドストーンギフト</string>
+    <string name="voidstone_gift_from_label">ボイドストーンギフトの贈り主:</string>
+    <string name="voidstone_gift_to_label">ボイドストーンギフトの受取人:</string>
     <string name="voidstone_gift_player">「%1$s」さん（ID %2$d）</string>
     <string name="transaction_fee">%d%%の手数料を含む</string>
     <string name="transaction_fee_amount">-%sの手数料</string>
@@ -367,17 +367,17 @@
     <string name="clan_private">クランはプライベートまたは削除されました。</string>
     <string name="clan_members">メンバー数</string>
     <string name="clan_members_count">%1$d人／%2$d人のメンバー</string>
-    <string name="clan_request_join">参加申請</string>
+    <string name="clan_request_join">加入申請</string>
     <string name="clan_leave">クラン脱退</string>
     <string name="clan_leave_confirm">クランを脱退してもよろしいですか？</string>
     <string name="clan_owner_must_transfer">クランを脱退するには、オーナーシップを移転する必要があります。</string>
-    <string name="clan_request_sent">参加申請送信済み</string>
+    <string name="clan_request_sent">加入申請送信済み</string>
     <string name="clan_disband">クラン解散</string>
     <string name="clan_disband_confirm">クランを解散してもよろしいですか？これは取り消せません！</string>
     <string name="clan_invite">プレイヤー招待</string>
     <string name="clan_invite_hint">名前またはIDを入力して招待を送信する</string>
     <string name="clan_settings">クラン設定</string>
-    <string name="clan_join_mode">参加モード</string>
+    <string name="clan_join_mode">クランプライバシー</string>
     <string name="clan_join_mode_open">パブリック</string>
     <string name="clan_join_mode_request">招待のみ</string>
     <string name="clan_join_mode_private">プライベート</string>
@@ -389,16 +389,16 @@
     <string name="clan_role_elder">エルダー</string>
     <string name="clan_role_member">メンバー</string>
     <string name="clan_name_taken">クラン名は使用されています</string>
-    <string name="clan_already_member">既にクランにいます</string>
-    <string name="clan_accept_invite_leave_confirm">既にクランにいます。この招待を受け入れてもよろしいですか？現在のクランから削除されます。</string>
-    <string name="clan_promoted">%1$sに昇格されました</string>
-    <string name="clan_demoted">%1$sに降格されました</string>
+    <string name="clan_already_member">すでにクランにいます</string>
+    <string name="clan_accept_invite_leave_confirm">すでにクランにいます。この招待を受け入れてもよろしいですか？現在のクランから削除されます。</string>
+    <string name="clan_promoted">%1$sに昇格しました</string>
+    <string name="clan_demoted">%1$sに降格しました</string>
     <string name="clan_kick_confirm_title">キック</string>
-    <string name="clan_kick_confirm_message">「%1$s」さん（ID %2$d）をキックしますか？このユーザーが申請で再参加できます。</string>
+    <string name="clan_kick_confirm_message">「%1$s」さん（ID %2$d）をキックしますか？このユーザーは申請で再参加できます。</string>
     <string name="clan_ban_confirm_title">バン</string>
-    <string name="clan_ban_confirm_message">「%1$s」さん（ID %2$d）をバンしますか？このユーザーが再参加できません。</string>
+    <string name="clan_ban_confirm_message">「%1$s」さん（ID %2$d）をバンしますか？このユーザーは再参加できません。</string>
     <string name="clan_unban_confirm_title">バン解除</string>
-    <string name="clan_unban_confirm_message">「%1$s」さん（ID %2$d）をバン解除しますか？このユーザーが再参加できます。</string>
+    <string name="clan_unban_confirm_message">「%1$s」さん（ID %2$d）をバン解除しますか？このユーザーは再参加できます。</string>
     <string name="clan_unkick_confirm_title">キック解除</string>
     <string name="clan_unkick_confirm_message">「%1$s」さん（ID %2$d）への申請必要を解除しますか？</string>
     <string name="clan_invited">招待済み</string>
@@ -407,18 +407,18 @@
     <string name="clan_invite_sent">招待送信済み！</string>
     <string name="clan_player_not_found">プレイヤーは見つかりませんでした</string>
     <string name="clan_player_banned">このユーザーがクランからバンされています。</string>
-    <string name="clan_already_invited">このユーザーは既に招待されたか、別のクランにいます。</string>
+    <string name="clan_already_invited">このユーザーはすでに招待されたか、別のクランにいます。</string>
     <string name="clan_full">クランが満員です。</string>
     <string name="clan_join_button_full">クラン満員</string>
     <string name="clan_join_request_sent">申請送信済み</string>
     <string name="clan_invite_list_full">このクランの招待リストが満員（最大100件）です。</string>
-    <string name="clan_player_invite_list_full">このユーザーの保留中の招待は既に上限に達しています。</string>
-    <string name="clan_request_list_full">このクランの参加申請のリストが満員（最大100件）です。</string>
+    <string name="clan_player_invite_list_full">このユーザーの保留中の招待はすでに上限に達しています。</string>
+    <string name="clan_request_list_full">このクランの参加申請リストが満員（最大100件）です。</string>
     <string name="clan_donate_voidstones">ボイドストーン寄付</string>
     <string name="clan_donate_hint">100枚〜100,000枚</string>
     <string name="clan_donate_sent">寄付完了！</string>
     <string name="clan_not_a_member">このクランのメンバーではありません。</string>
-    <string name="clan_already_requested">既に別のクランとの保留中の参加申請があります。</string>
+    <string name="clan_already_requested">すでに別のクランとの保留中の参加申請があります。</string>
     <string name="clan_copy_tag">タグをコピー</string>
     <string name="clan_creator">作成者</string>
     <string name="clan_history">クランの履歴</string>
@@ -431,14 +431,14 @@
     <string name="clan_history_event_demote">広角済み</string>
     <string name="clan_history_event_donation">寄付済み</string>
     <string name="clan_history_id">履歴ID: %d</string>
-    <string name="clan_public_profile">パブリッククラン説明</string>
-    <string name="clan_kicked_banned_players">キック済／バン中のユーザー</string>
+    <string name="clan_public_profile">クランの公開説明</string>
+    <string name="clan_kicked_banned_players">招待必要／バン中のユーザー</string>
     <string name="clan_unkick_confirm">「%1$s」さん（ID %2$d）をキック解除しますか？</string>
     <string name="clan_unban_confirm">「%1$s」さん（ID %2$d）をバン解除しますか？</string>
     <string name="clan_search_hint">名前またはIDで検索する</string>
     <string name="clan_promote_to_owner">オーナーシップ移転</string>
     <string name="clan_transfer_ownership_title">オーナーシップ移転</string>
-    <string name="clan_transfer_ownership_message">オーナーシップを「%1$s」さん（ID %2$d）に移転しますか？あなたは共同オーナーになります。これは取り消せません。\n\nユーザーのIDを入力して確認してください:</string>
+    <string name="clan_transfer_ownership_message">オーナーシップを「%1$s」さん（ID %2$d）に移転しますか？あなたは共同オーナーになります。これは取り消せません。\n\nユーザーIDを入力して確認してください:</string>
     <string name="clan_transfer_ownership_id_mismatch">無効なIDです。</string>
     <string name="clan_customize_name_color">クラン名カラー</string>
     <string name="clan_customize_tag_color">クランタグカラー</string>
@@ -473,11 +473,11 @@
     <!-- Leaderboard !-->
     <string name="leaderboard_type">リーダーボード種類</string>
     <string name="leaderboard_xp_description">経験値です。獲得してレベルアップします。経験値はドットやボイドストーンを集めて得られます。</string>
-    <string name="leaderboard_competitive_description">1対1のランキングマッチです。アリーナ戦で12試合以上完了したプレイヤーのみが表示されます。</string>
+    <string name="leaderboard_competitive_description">1対1のランキングマッチです。アリーナ戦で12試合以上完了したプレイヤーのみは表示されます。</string>
     <string name="leaderboard_rating">ランキング</string>
     <string name="leaderboard_period_daily">デイリー</string>
     <string name="leaderboard_period_weekly">ウィークリー</string>
-    <string name="leaderboard_period_monthly">モンスリー</string>
+    <string name="leaderboard_period_monthly">マンスリー</string>
     <string name="leaderboard_period_all_time">歴代</string>
     <string name="leaderboard_score">スコア</string>
     <string name="leaderboard_rank">ランキング</string>
@@ -617,23 +617,23 @@
     <string name="skin_color_preview">プレビュー:</string>
     <string name="skin_tab_standard">デフォルト</string>
     <string name="skin_tab_level">レベル</string>
-    <string name="skin_tab_voidstones">ボッスト</string>
+    <string name="skin_tab_voidstones">ボドスト</string>
     <string name="level_skin_locked">このスキンはレベル%d以降にアンロックされます。</string>
     <string name="level_lock">レベルロック</string>
 
 
     <!-- Chat !-->
     <string name="chat">チャット</string>
-    <string name="room_commands" tools:ignore="TypographyDashes">使用可能なコマンド:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1秒〜60秒]\n!pausechat [-1: 停止解除・0: 永久・1秒〜3600秒]\n!hidden\n!minplayers [数]\n!reset\n!close</string>
+    <string name="room_commands" tools:ignore="TypographyDashes">使用可能なコマンド:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1〜60]\n!pausechat [-1: 停止解除・0: 永久・1〜3600]\n!hidden\n!minplayers [数]\n!reset\n!close</string>
     <string name="chat_close">チャットを閉じる</string>
     <string name="chat_message_hint">メッセージを書く…</string>
     <string name="chat_send_message">メッセージを送る</string>
     <string name="copy_name">名前をコピー</string>
     <string name="copy_message">メッセージをコピー</string>
     <string name="view_profile">プロフィールへ</string>
-    <string name="delete_message">メッセージを削除</string>
-    <string name="edit_message">メッセージを編集</string>
-    <string name="report_message">メッセージを報告</string>
+    <string name="delete_message">メッセージ削除</string>
+    <string name="edit_message">メッセージ編集</string>
+    <string name="report_message">メッセージ報告</string>
     <string name="chat_paused">チャットが停止中です</string>
     <string name="reply">リプライ</string>
     <string name="replying_to">「%s」さんにリプライ中</string>
@@ -687,7 +687,7 @@
 
     <!-- Dialogs -->
     <string name="dialog_confirm">確認</string>
-    <string name="dialog_confirm_account_deletion">アカウントを削除</string>
+    <string name="dialog_confirm_account_deletion">アカウント削除</string>
     <string name="dialog_leave_game">ゲームを終了してもよろしいですか？</string>
     <string name="dialog_respawn_warning">リスポーンしますか？現在のサイズが失われます！</string>
     <string name="dialog_change_language">言語を『%s』に変更しますか？アプリが再起動されます。</string>
@@ -696,9 +696,9 @@
     <string name="dialog_disconnected_message">サーバーから切断されました。</string>
     <string name="kicked_from_room">キックされました！</string>
     <string name="banned_from_room">バンされました！</string>
-    <string name="enter_room_name">ルーム名を入力</string>
+    <string name="enter_room_name">ルーム名入力</string>
     <string name="room_not_found">ルームは見つかりませんでした</string>
-    <string name="already_in_room">既にルームにいます！</string>
+    <string name="already_in_room">すでにルームにいます！</string>
     <string name="room_closed">ルームが閉まっています</string>
     <string name="room_name">ルーム名</string>
     <string name="reported">報告完了</string>
@@ -721,8 +721,8 @@
     <string name="toast_please_wait">お待ちください</string>
     <string name="permission_denied">許可拒否</string>
     <string name="dialog_locked">ロック</string>
-    <string name="duplicate_connection">既にアカウントに接続しました！</string>
-    <string name="outdated_client">クライアントの更新が必要です！\nクライアント: %1$s (%2$d)\nサーバー: %3$s (%4$d)</string>
+    <string name="duplicate_connection">すでにアカウントに接続しました！</string>
+    <string name="outdated_client">クライアントの更新が必要です！\nクライアントバージョン: %1$s (%2$d)\nサーバーバージョン: %3$s (%4$d)</string>
 
     <!-- Block Player -->
     <string name="blocked_players">ブロックリスト</string>
