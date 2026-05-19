@@ -727,13 +727,13 @@
     <!-- Block Player -->
     <string name="blocked_players">ブロックリスト</string>
     <string name="no_blocked_players">ブロックしたプレイヤーはこちらに表示されます</string>
-    <string name="unblock_confirm_message">「%1$s」さん（ID %2$d）をブロック解除してもよろしいですか？</string>
+    <string name="unblock_confirm_message">「%1$s」さん（ID %2$d）をブロック解除しますか？</string>
     <string name="block_player">ブロック</string>
     <string name="unblock_player">ブロック解除</string>
-    <string name="block_confirm_title">プレイヤーをブロック？</string>
-    <string name="block_confirm_message">「%s」さんをブロックしてもよろしいですか？このプレイヤーからメールまたはフレンド申請を受信できないようになり、フレンドリストから解除されます。</string>
-    <string name="player_unblocked">プレイヤーがブロック解除されました</string>
-    <string name="player_blocked">プレイヤーがブロックされました</string>
+    <string name="block_confirm_title">プレイヤーをブロックしますか？</string>
+    <string name="block_confirm_message">「%s」さんをブロックしてもよろしいですか？このプレイヤーからのメールまたはフレンド申請を受信できないようになり、フレンドリストから解除されます。</string>
+    <string name="player_unblocked">プレイヤーをブロック解除しました</string>
+    <string name="player_blocked">プレイヤーをブロックしました</string>
     <string name="you_blocked_user">プレイヤーをブロックしました</string>
     <string name="user_blocked_you">プレイヤーにブロックされています</string>
     <string name="both_blocked">両方のプレイヤーがブロックし合いました</string>
@@ -744,7 +744,7 @@
     <string name="public_ip">グローバルIP: %s</string>
     <string name="searching_rooms">ルームを検索しています…</string>
     <string name="host">ホスト</string>
-    <string name="enter_ip">IPを入力</string>
+    <string name="enter_ip">IP入力</string>
     <string name="join_ip_title">IPアドレスに参加</string>
     <string name="tap_to_reveal">タップして表示</string>
     <string name="remote_lan_connections">他のクライアントがグローバルIP経由でリモート参加するには、このデバイスにUDP %dポートを転送するか、ルーター設定でDMZをオンにする必要があります。ネットワーク環境が対称型NAT／CGNATを使用している場合、接続に失敗する可能性があるためでご注意ください。詳細の確認や現在のNATタイプをチェックするには、%sにアクセスしてください。</string>
@@ -753,7 +753,7 @@
     <string name="players">プレイヤー</string>
     <string name="spectators">観戦者</string>
     <string name="joined_room">ルーム「%s」に入りました</string>
-    <string name="player_list_title">プレイヤーのリスト</string>
+    <string name="player_list_title">プレイヤーリスト</string>
     <string name="player_list_count">プレイヤー数: %d・ボット数: %d・総数: %d</string>
     <string name="player_list_count_with_spectators">プレイヤー数: %d ⋅ ボット数: %d ⋅ 観戦者数: %d ⋅ 総数: %d</string>
     <string name="kick_confirm_title">プレイヤーをキック</string>
@@ -763,16 +763,16 @@
 
     <!-- Custom Images -->
     <string name="custom_images">カスタム画像</string>
-    <string name="profile_avatar">プロフィールのアイコン</string>
+    <string name="profile_avatar">プロフィールアイコン</string>
     <string name="custom_image_rules">使用禁止アイコンの種類:\n\n・NSFWや性的なコンテンツ\n・過激な暴力描写やゴア\n・武器\n・憎悪の象徴\n・ヘイトスピーチ\n・薬物\n・衝撃や気持ち悪いコンテンツ\n・著作権で保護されたキャラクターやロゴ\n・アルコルやタバコに関する言及\n・ホラーや不気味なコンテンツ</string>
     <string name="custom_image_upload">アップロード</string>
     <string name="custom_image_replace">差替</string>
     <string name="custom_image_deselect">選択解除</string>
     <string name="custom_image_confirm_title">画像をアップロード</string>
     <string name="custom_image_confirm_body">この画像を%1$s枚のボイドストーンでアップロードしますか？</string>
-    <string name="custom_image_upload_success">画像がレビュー用に送信されました</string>
-    <string name="custom_image_selected">アイコンが選択されました</string>
-    <string name="custom_image_deselected">アイコンが選択解除されました</string>
+    <string name="custom_image_upload_success">画像をレビュー用にアップロードしました</string>
+    <string name="custom_image_selected">アイコンを選択しました</string>
+    <string name="custom_image_deselected">アイコンを選択解除しました</string>
     <string name="custom_image_upload_failed">画像がアップロードできませんでした</string>
     <string name="custom_image_read_error">画像が読み込めませんでした</string>
     <string name="custom_image_invalid_format">画像ファイルを選択してください</string>
@@ -782,14 +782,14 @@
     <string name="custom_image_compress_title">画像は大きすぎます・圧縮？</string>
     <string name="custom_image_compress_accept">圧縮する</string>
     <string name="custom_image_compress_failed">画像が圧縮できませんでした</string>
-    <string name="custom_image_bought">カスタム画像のアップロード</string>
-    <string name="custom_image_refund">カスタム画像の返金</string>
+    <string name="custom_image_bought">カスタム画像アップロード</string>
+    <string name="custom_image_refund">カスタム画像返金</string>
     <string name="custom_image_slot">画像 %1$d</string>
 
     <!-- Custom image skin -->
     <string name="custom_image_skin_load_failed">カスタムスキンが読み込めませんでした: %1$s</string>
     <string name="custom_image_no_approved_image">スロット%1$dに承認画像はありません</string>
-    <string name="report_avatar">アイコンを報告</string>
+    <string name="report_avatar">アイコン報告</string>
     <string name="report_avatar_message">「%1$s」さんのアイコンを報告しますか？</string>
     <string name="report_avatar_success">アイコンの報告完了</string>
     <string name="report_avatar_failed">アイコンが報告できませんでした</string>
