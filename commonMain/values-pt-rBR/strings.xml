@@ -644,7 +644,7 @@
     <string name="stage_clear">Fase %s Concluída!</string>
     <string name="stage_failed">Fase %s Falhada!</string>
     <string name="restarting_adventure">Reiniciando aventura…</string>
-    <string name="server_in_maintenance">Manutenção do Servidlr</string>
+    <string name="server_in_maintenance">Manutenção do Servidor</string>
     <string name="server_reboot">Reinício do Servidor</string>
     <string name="server_shutdown">Encerramento do Servidor</string>
 
