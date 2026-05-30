@@ -356,10 +356,10 @@
     <string name="clan_name">Nombre de clan</string>
     <string name="clan_name_hint">Escribe el nombre de clan (max. 14 caracteres)</string>
     <string name="clan_tag">Clan</string>
-    <string name="clan_tag_hint">Tag (1-4 letters)</string>
-    <string name="clan_list">Public Clans</string>
-    <string name="clan_no_clans">No clans found</string>
-    <string name="no_clan">No clan</string>
+    <string name="clan_tag_hint">Siglas (de 1-4 letras)</string>
+    <string name="clan_list">Clanes publicos</string>
+    <string name="clan_no_clans">No se encontraron clanes</string>
+    <string name="no_clan">Sin clan</string>
     <string name="clan_request_clans">Request Only Clans</string>
     <string name="clan_my_invites">My Invites</string>
     <string name="clan_invite_declined">Invite declined.</string>
@@ -471,18 +471,18 @@
     <string name="clan_history_event_rename">Renamed Clan</string>
 
     <!-- Leaderboard !-->
-    <string name="leaderboard_type">Leaderboard Type</string>
-    <string name="leaderboard_xp_description">Experience points. Required to level up. Can be obtained by doing any meaningful action in game.</string>
-    <string name="leaderboard_competitive_description">Ranked 1v1 ladder. Only players who have completed at least 12 competitive matches are listed.</string>
-    <string name="leaderboard_rating">Rating</string>
-    <string name="leaderboard_period_daily">Daily</string>
-    <string name="leaderboard_period_weekly">Weekly</string>
-    <string name="leaderboard_period_monthly">Monthly</string>
-    <string name="leaderboard_period_all_time">All Time</string>
-    <string name="leaderboard_score">Score</string>
-    <string name="leaderboard_rank">Rank</string>
-    <string name="leaderboard_empty">No entries yet</string>
-    <string name="leaderboard_load_error">Failed to load leaderboard</string>
+    <string name="leaderboard_type">Tipo de tabla de clasificación</string>
+    <string name="leaderboard_xp_description">Puntos de experiencia. Necesarios para subir de nivel. Se pueden obtener realizando cualquier acción significativa en el juego.</string>
+    <string name="leaderboard_competitive_description">Clasificación 1vs1. Solo se muestran los jugadores que hayan completado al menos 12 partidas competitivas.</string>
+    <string name="leaderboard_rating">Clasificación</string>
+    <string name="leaderboard_period_daily">Diario</string>
+    <string name="leaderboard_period_weekly">Semanal</string>
+    <string name="leaderboard_period_monthly">Mensual</string>
+    <string name="leaderboard_period_all_time">Todo</string>
+    <string name="leaderboard_score">Puntuación</string>
+    <string name="leaderboard_rank">Rango</string>
+    <string name="leaderboard_empty">Ups, aún no hay entradas...</string>
+    <string name="leaderboard_load_error">Ups, no se pudo cargar la tabla de clasificación...</string>
 
     <!-- Statistics !-->
     <string name="all">Todo</string>
@@ -492,8 +492,8 @@
     <string name="stat_total">Total:</string>
     <string name="stat_regular_value">Regular (Valor):</string>
     <string name="stat_regular_count">Regular (Contar):</string>
-    <string name="stat_rainbow_value">Rainbow (Value):</string>
-    <string name="stat_rainbow_count">Rainbow (Count):</string>
+    <string name="stat_rainbow_value">Arcoíris (valor):</string>
+    <string name="stat_rainbow_count">Arcoíris (Contar):</string>
     <string name="stat_gold_value">Oro (Valor):</string>
     <string name="stat_gold_count">Oro (Contar):</string>
     <string name="stat_silver_value">Plata (Valor):</string>
@@ -510,60 +510,60 @@
     <string name="stat_stages_cleared">Etapas superadas:</string>
     <string name="stat_highest_stage">Etapa más alta:</string>
     <string name="stat_adventures_completed">Aventuras completadas:</string>
-    <string name="stat_goals_scored">Goals Scored:</string>
+    <string name="stat_goals_scored">Goles:</string>
     <string name="stat_collisions">Colisiones:</string>
     <string name="stat_boosts">Mejoras:</string>
-    <string name="stat_teleports">Teletransportes:</string>
-    <string name="stat_rewarded_ads_watched">Reward Ads Watched:</string>
+    <string name="stat_teleports">Teletransportaciones:</string>
+    <string name="stat_rewarded_ads_watched">Anuncios de recompensa vistos:</string>
 
     <!-- Mail !-->
-    <string name="mail">Mail</string>
-    <string name="sent_mail_to_id">Sent Mail to %d</string>
-    <string name="mail_id">Mail ID: %d</string>
-    <string name="no_mail_yet">No mail yet</string>
-    <string name="mail_from">From:</string>
-    <string name="mail_to">To:</string>
-    <string name="received">Received</string>
-    <string name="refresh">Refresh</string>
-    <string name="write_mail">Write Mail</string>
-    <string name="mail_reply">Reply</string>
-    <string name="mail_title_hint">Title</string>
-    <string name="mail_content_hint">Content</string>
-    <string name="mail_recipient_not_found">Recipient not found</string>
-    <string name="mail_send_to_self">Cannot send mail to yourself</string>
-    <string name="mail_title_too_long">Title too long</string>
-    <string name="mail_content_too_long">Content too long</string>
-    <string name="mail_sent_success">Sent</string>
-    <string name="mark_unread">Mark Unread</string>
-    <string name="copy_verification_code">Copy Verification Code</string>
-    <string name="code_copied">Code copied to clipboard!</string>
+    <string name="mail">Correo</string>
+    <string name="sent_mail_to_id">Enviar correo a %d</string>
+    <string name="mail_id">Correo de ID: %d</string>
+    <string name="no_mail_yet">Ups, parece que aún no tienes correos... yet</string>
+    <string name="mail_from">de:</string>
+    <string name="mail_to">para:</string>
+    <string name="received">Correo recibido</string>
+    <string name="refresh">Refrescar lista</string>
+    <string name="write_mail">Escribir correo</string>
+    <string name="mail_reply">Responder correo</string>
+    <string name="mail_title_hint">Asunto del correo</string>
+    <string name="mail_content_hint">Cuerpo del correo</string>
+    <string name="mail_recipient_not_found">El destinatario no fue encontrado</string>
+    <string name="mail_send_to_self">Ups, no puedes enviarte un correo a ti mismo...</string>
+    <string name="mail_title_too_long">Ups, el asunto del correo es demasiado largo...</string>
+    <string name="mail_content_too_long">Ups, el cuerpo del correo es demasiado largo...</string>
+    <string name="mail_sent_success">Correo enviado</string>
+    <string name="mark_unread">Marcar como no leído</string>
+    <string name="copy_verification_code">Copiar código de verificación</string>
+    <string name="code_copied">¡El código de verificación se copió con éxito!</string>
 
     <!-- Gamemodes !-->
     <string name="gamemode_classic">Clásico</string>
     <string name="gamemode_teams">Equipos</string>
     <string name="gamemode_survival">Supervivencia</string>
-    <string name="gamemode_team_survival">Equipo de Supervivencia</string>
+    <string name="gamemode_team_survival">Equipo de supervivencia</string>
     <string name="gamemode_knockout">Knockout</string>
     <string name="gamemode_adventure">Aventura</string>
-    <string name="gamemode_soccer">Soccer</string>
+    <string name="gamemode_soccer">Fútbol</string>
     <string name="gamemode_coming_soon">Muy pronto</string>
-    <string name="gamemode_competitive">Competitive</string>
+    <string name="gamemode_competitive">Competitivo</string>
     <string name="description_classic">¡Cómete a jugadores más pequeños y conviértete en la masa más grande del universo! Usa tu tamaño para dominar el mapa, ¡pero ten cuidado con los jugadores más grandes te quieren comer!</string>
     <string name="description_teams">¡Une fuerzas con otros jugadores del mismo color! Trabajen juntos para atrapar enemigos y convertirse en el equipo que domine la clasificación. Los compañeros de equipo no pueden comerse entre sí.</string>
     <string name="description_survival">¡Una vida, una ronda! Recoge todo lo que puedas antes de que se acabe el tiempo extra. Después de eso, ¡la muerte es definitiva! ¡Sé el último en pie o el más grande cuando se acabe el tiempo para ganar!</string>
     <string name="description_team_survival">¡Modo supervivencia por equipos! Trabaja con tus compañeros para eliminar a otros equipos. ¡El último equipo en pie o el que tenga el mayor número de jugadores en su equipo al agotarse el tiempo gana!</string>
     <string name="description_knockout">¡Compite en rondas eliminatorias! Los jugadores pueden reaparecer libremente hasta ser eliminados en intervalos regulares. Los jugadores más pequeños en cada intervalo son eliminados permanentemente. ¡Sé el último en pie para ganar!</string>
     <string name="description_adventure">¡Completa etapas desafiantes con objetivos únicos! Avanza por niveles de dificultad creciente, gana recompensas y descubre hasta dónde puedes llegar. ¡Cada etapa trae nuevos desafíos!</string>
-    <string name="description_soccer">Capture the ball and shoot it into the enemy goal to score. The team with the most goals when time runs out wins!</string>
+    <string name="description_soccer">Captura el balón y anótalo a la portería contraria para marcar gol. ¡El equipo con más goles al finalizar el tiempo gana!</string>
     <string name="description_coming_soon">¡Este modo estará disponible próximamente, no te lo pierdas!</string>
-    <string name="description_competitive">Ranked 1v1 survival! Earn rating by beating opponents of similar skill. A 3-minute match with a 2-minute overtime if neither player dies. Win to climb the global leaderboard, lose and drop down, but the rating swing depends on the gap between you and your opponent.</string>
+    <string name="description_competitive">¡Supervivencia clasificatoria 1vs1! Gana puntos de clasificación al vencer a oponentes de habilidad similar. Partida de 3 minutos con 2 minutos de prórroga si ninguno de los jugadores muere. Si ganas, subirás en la clasificación mundial; si pierdes, bajarás. La diferencia en la clasificación depende de la diferencia de nivel entre tú y tu oponente.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Enano</string>
     <string name="mapsize_small">Pequeño</string>
     <string name="mapsize_medium">Mediano</string>
     <string name="mapsize_large">Grande</string>
-    <string name="mapsize_xl">XL</string>
+    <string name="mapsize_xl">Gigante</string>
 
     <!-- Bot difficulties !-->
     <string name="difficulty_easy">Fácil</string>
@@ -578,9 +578,9 @@
     <string name="adventure_obj_high_speed">¡Alta velocidad!</string>
     <string name="adventure_obj_more_holes">¡Más agujeros!</string>
     <string name="adventure_obj_collect_food">Recolectar %d comida</string>
-    <string name="adventure_obj_invisible_bots">Invisible Bots!</string>
-    <string name="adventure_obj_growing_bots">Growing Bots!</string>
-    <string name="adventure_obj_reach_size">Reach %d Size</string>
+    <string name="adventure_obj_invisible_bots">Invisible para bots!</string>
+    <string name="adventure_obj_growing_bots">Farmea bots!</string>
+    <string name="adventure_obj_reach_size">Alcanza los %d puntos</string>
     <string name="adventure_obj_finish_first">Termina en 1er lugar</string>
     <string name="adventure_obj_collect_voidstones">Recolecta %d Voidstones</string>
 
