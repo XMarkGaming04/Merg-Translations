@@ -542,21 +542,21 @@
     <string name="gamemode_classic">Clásico</string>
     <string name="gamemode_teams">Equipos</string>
     <string name="gamemode_survival">Supervivencia</string>
-    <string name="gamemode_team_survival">Equipo de supervivencia</string>
+    <string name="gamemode_team_survival">Equipo de Supervivencia</string>
     <string name="gamemode_knockout">Knockout</string>
     <string name="gamemode_adventure">Aventura</string>
     <string name="gamemode_soccer">Fútbol</string>
-    <string name="gamemode_coming_soon">Muy pronto</string>
+    <string name="gamemode_coming_soon">Muy Pronto…</string>
     <string name="gamemode_competitive">Competitivo</string>
-    <string name="description_classic">¡Cómete a jugadores más pequeños y conviértete en la masa más grande del universo! Usa tu tamaño para dominar el mapa, ¡pero ten cuidado con los jugadores más grandes te quieren comer!</string>
-    <string name="description_teams">¡Une fuerzas con otros jugadores del mismo color! Trabajen juntos para atrapar enemigos y convertirse en el equipo que domine la clasificación. Los compañeros de equipo no pueden comerse entre sí.</string>
-    <string name="description_survival">¡Una vida, una ronda! Recoge todo lo que puedas antes de que se acabe el tiempo extra. Después de eso, ¡la muerte es definitiva! ¡Sé el último en pie o el más grande cuando se acabe el tiempo para ganar!</string>
-    <string name="description_team_survival">¡Modo supervivencia por equipos! Trabaja con tus compañeros para eliminar a otros equipos. ¡El último equipo en pie o el que tenga el mayor número de jugadores en su equipo al agotarse el tiempo gana!</string>
-    <string name="description_knockout">¡Compite en rondas eliminatorias! Los jugadores pueden reaparecer libremente hasta ser eliminados en intervalos regulares. Los jugadores más pequeños en cada intervalo son eliminados permanentemente. ¡Sé el último en pie para ganar!</string>
+    <string name="description_classic">¡Cómete a Jugadores más pequeños y conviértete en el blob más Grande del universo! Usa tu tamaño para dominar en el mapa, ¡pero ten cuidado, los Jugadores más Grandes te quieren comer!</string>
+    <string name="description_teams">¡Une fuerzas con otros Jugadores del mismo Color! Trabajen juntos para comerse a los enemigos y convertirse en el Equipo que domine la Clasificación. Los compañeros de Equipo no pueden comerse entre sí.</string>
+    <string name="description_survival">¡Una vida, una ronda! Recoge todo lo que puedas antes de que se acabe el Tiempo Extra. Después de eso, ¡la muerte es definitiva! ¡Sé el último en pie o el más Grande cuando se acabe el Tiempo para ganar!</string>
+    <string name="description_team_survival">¡Modo supervivencia por Equipos! Trabaja con tus compañeros para eliminar a otros Equipos. ¡El último Equipo en pie o el que tenga el mayor número de Jugadores en su Equipo al agotarse el Tiempo gana!</string>
+    <string name="description_knockout">¡Compite en rondas eliminatorias! Los Jugadores pueden reaparecer libremente hasta ser Eliminados en Intervalos Regulares. Los Jugadores más Pequeños en cada intervalo son Eliminados permanentemente. ¡Sé el último en pie para ganar!</string>
     <string name="description_adventure">¡Completa etapas desafiantes con objetivos únicos! Avanza por niveles de dificultad creciente, gana recompensas y descubre hasta dónde puedes llegar. ¡Cada etapa trae nuevos desafíos!</string>
-    <string name="description_soccer">Captura el balón y anótalo a la portería contraria para marcar gol. ¡El equipo con más goles al finalizar el tiempo gana!</string>
-    <string name="description_coming_soon">¡Este modo estará disponible próximamente, no te lo pierdas!</string>
-    <string name="description_competitive">¡Supervivencia clasificatoria 1vs1! Gana puntos de clasificación al vencer a oponentes de habilidad similar. Partida de 3 minutos con 2 minutos de prórroga si ninguno de los jugadores muere. Si ganas, subirás en la clasificación mundial; si pierdes, bajarás. La diferencia en la clasificación depende de la diferencia de nivel entre tú y tu oponente.</string>
+    <string name="description_soccer">Captura el balón y anótalo a la portería contraria para anotar Gol. ¡El Equipo con más Goles al finalizar el Tiempo gana!</string>
+    <string name="description_coming_soon">¡Este Modo estará Disponible Próximamente, no te lo pierdas!</string>
+    <string name="description_competitive">¡Supervivencia Clasificatoria 1vs1! Gana Puntos de Clasificación al vencer a oponentes de habilidad similar. Partida de 3 minutos con 2 minutos de prórroga si ninguno de los Jugadores muere. Si ganas, subirás en la Clasificación Mundial; si pierdes, bajarás. La diferencia en la Clasificación depende de la diferencia de Nivel entre tú y tu oponente.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Enano</string>
