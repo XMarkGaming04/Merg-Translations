@@ -79,7 +79,7 @@
     <string name="timer_format_normal">Normal</string>
     <string name="timer_format_arcade">Arcade</string>
     <string name="timer_format_ticks">Ticks</string>
-    <string name="auto_spectate_killer">Espectar Automáticamente al Morir</string>
+    <string name="auto_spectate_killer">Espectar automát. al Morir</string>
     <string name="cycle_progressbar">Alternar automát. Texto de la Barra de EXP</string>
     <string name="jitter_buffer">Jitter Buffer</string>
 
