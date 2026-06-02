@@ -10,12 +10,12 @@
 
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
-    <string name="email_copy">Copiar Correo</string>
-    <string name="email_support">Correo de Soporte:</string>
-    <string name="developer">Desarrolladores:</string>
-    <string name="code_contribution">Colaboradores:</string>
-    <string name="skins">Skins:</string>
-    <string name="translations">Traductores:</string>
+    <string name="email_copy">Copiar Dirección de Correo</string>
+    <string name="email_support">CORREO DE SOPORTE:</string>
+    <string name="developer">DESARROLLADORES:</string>
+    <string name="code_contribution">COLABORADORES:</string>
+    <string name="skins">SKINS:</string>
+    <string name="translations">TRADUCTORES:</string>
 
     <!-- Options menu !-->
     <string name="language">Idioma</string>
@@ -61,7 +61,7 @@
     <string name="show_grid">Mostrar Cuadrícula</string>
     <string name="custom_background_image">Fondo con Imagen Personalizada</string>
     <string name="custom_background_select">Seleccionar Imagen</string>
-    <string name="custom_background_opacity">Opaciadad del Fondo</string>
+    <string name="custom_background_opacity">Opacidad del Fondo</string>
     <string name="show_performance_metrics">Mostrar estadísticas de rendimiento</string>
     <string name="skin_outlines">Contorno de skin</string>
     <string name="direction_arrow">Dirección de flecha</string>
