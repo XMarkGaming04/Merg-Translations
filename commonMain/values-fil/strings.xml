@@ -77,10 +77,10 @@
     <string name="name_scale">Iskala ng Pangalan</string>
     <string name="timer_format">Format ng Timer</string>
     <string name="timer_format_normal">Normal</string>
-    <string name="timer_format_arcade">Arkada</string>
-    <string name="timer_format_ticks">Mga garapata</string>
-    <string name="auto_spectate_killer">Pamatay-Anti-Anti-Awto</string>
-    <string name="cycle_progressbar">Teksto ng Progress Bar ng Cycle XP</string>
+    <string name="timer_format_arcade">Arcade na may Format ng Timer</string>
+    <string name="timer_format_ticks">Mga Tik sa Format ng Timer</string>
+    <string name="auto_spectate_killer">Awtomatikong Panoorin ang Pumatay</string>
+    <string name="cycle_progressbar">Bar ng Pag-unlad ng Ikot</string>
     <string name="jitter_buffer">Jitter Buffer</string>
 
     <!-- Game/room creation menu-->
