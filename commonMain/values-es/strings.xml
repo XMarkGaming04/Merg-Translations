@@ -740,26 +740,26 @@
 
     <!-- LAN Multiplayer -->
     <string name="host_local_game">RED LOCAL</string>
-    <string name="local_ip">IP local: %s</string>
-    <string name="public_ip">IP pública: %s</string>
-    <string name="searching_rooms">Buscando salas disponibles…</string>
+    <string name="local_ip">IP Local: %s</string>
+    <string name="public_ip">IP Pública: %s</string>
+    <string name="searching_rooms">Buscando Salas Disponibles…</string>
     <string name="host">Anfitrión(a)</string>
     <string name="enter_ip">Insertar IP</string>
-    <string name="join_ip_title">Unirse a esta dirección IP</string>
-    <string name="tap_to_reveal">Toca para revelar</string>
-    <string name="remote_lan_connections">Para permitir que otros clientes se conecten remotamente a través de una IP pública, debe redirigir el puerto UDP %d o habilitar la DMZ para su dispositivo en la configuración de su enrutador. Tenga en cuenta que las conexiones podrían fallar si su red utiliza NAT simétrica/CGNAT. Para obtener más información y comprobar su tipo de NAT actual, visite %s.</string>
+    <string name="join_ip_title">Unirse a esta Dirección IP</string>
+    <string name="tap_to_reveal">Toca para Revelar</string>
+    <string name="remote_lan_connections">Para permitir que otros Clientes se Conecten Remotamente a través de una IP Pública, debe redirigir el puerto UDP %d o habilitar la DMZ para su Dispositivo en la Configuración de su enrutador. Tenga en cuenta que las Conexiones podrían fallar si su Red utiliza NAT simétrica/CGNAT. Para obtener más información y comprobar su tipo de NAT actual, visite %s.</string>
 
     <!-- Player List -->
     <string name="players">Jugadores</string>
     <string name="spectators">Espectadores</string>
-    <string name="joined_room">Te uniste a la sala %s</string>
+    <string name="joined_room">Te uniste a la Sala %s</string>
     <string name="player_list_title">LISTA DE JUGADORES</string>
     <string name="player_list_count">Jugadores: %d ⋅ Bots: %d ⋅ Total: %d</string>
     <string name="player_list_count_with_spectators">Jugadores: %d ⋅ Bots: %d ⋅ Espectadores: %d ⋅ Total: %d</string>
-    <string name="kick_confirm_title">Expulsar jugador</string>
-    <string name="kick_confirm_message">¿Seguro que quieres expulsar a %s de esta sala?. Puede volver a unirse.</string>
-    <string name="ban_confirm_title">¿Seguro que quieres banear de la sala a este jugador?</string>
-    <string name="ban_confirm_message">¿Seguro que quieres banear a %s de esta sala?. ¡No podrá volver a unirse y esta acción no se puede deshacer!</string>
+    <string name="kick_confirm_title">Expulsar de la Sala</string>
+    <string name="kick_confirm_message">¿Seguro que quieres Expulsar a %s de esta Sala?. Puede volver a Unirse.</string>
+    <string name="ban_confirm_title">Banear de la Sala</string>
+    <string name="ban_confirm_message">¿Seguro que quieres Banear a %s de esta Sala?. ¡No podrá volver a Unirse y esta acción no se puede deshacer!</string>
 
     <!-- Custom Images -->
     <string name="custom_images">Skin personalizada</string>
