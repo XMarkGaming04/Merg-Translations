@@ -80,7 +80,7 @@
     <string name="timer_format_arcade">Arcade</string>
     <string name="timer_format_ticks">Ticks</string>
     <string name="auto_spectate_killer">Espectar Automáticamente al Morir</string>
-    <string name="cycle_progressbar">Texto de la Barra de Progreso de EXP</string>
+    <string name="cycle_progressbar">Mostrar Barra de Progreso de EXP</string>
     <string name="jitter_buffer">Jitter Buffer</string>
 
     <!-- Game/room creation menu-->
@@ -121,7 +121,7 @@
     <string name="private_room">Sala Privada</string>
     <string name="private_rooms">Salas Privadas</string>
     <string name="connected">Conectado</string>
-    <string name="select_server">Seleccionar región</string>
+    <string name="select_server">Seleccionar Región</string>
     <string name="server_europe">Europa</string>
     <string name="join">Entrar</string>
     <string name="create">Crear</string>
@@ -137,12 +137,12 @@
     <string name="remove_friend">Eliminar Amigo</string>
     <string name="friend_request_sent">Solicitud de Amistad Enviada</string>
     <string name="friend_requests_received">Solicitudes de Amistad</string>
-    <string name="friend_requests_sent">Solicitudes Anviadas</string>
+    <string name="friend_requests_sent">Solicitudes Enviadas</string>
     <string name="no_friends">Sin Amigos…</string>
     <string name="remove_friend_title">Eliminar Amigo</string>
     <string name="remove_friend_message">¿Seguro qué quieres dejar de ser Amigo de \"%1$s\" (ID: %2$d)?</string>
     <string name="cancel_request_title">Cancelar Solicitud</string>
-    <string name="cancel_request_message">¿Seguro que quieres eliminar la Solicitud de Amistad de \"%1$s\" (ID: %2$d)?</string>
+    <string name="cancel_request_message">¿Seguro(a) que quieres eliminar la Solicitud de Amistad de \"%1$s\" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Ups, no puedes enviarte una Solicitud de Amistad a ti mismo.</string>
     <string name="friend_request_error_already_sent">Ya has enviado una Solicitud de Amistad</string>
     <string name="friend_request_error_already_friends">Ya son Amigos</string>
@@ -182,7 +182,7 @@
     <!-- Shop -->
     <string name="shop">TIENDA</string>
     <string name="free_voidstones">¡Voidstones gratis!</string>
-    <string name="free_voidstones_subtitle">¡Mira un anuncio corto para ganar Voidstones gratis!</string>
+    <string name="free_voidstones_subtitle">¡Mira un Anuncio corto para ganar Voidstones gratis!</string>
     <string name="free_voidstones_won">Obtuviste %d Voidstones!</string>
     <string name="free_voidstones_status">%1$d Restantes ⋅ Reinicio en %2$s</string>
     <string name="pick">Elegir</string>
@@ -199,7 +199,7 @@
     <string name="reward_profile_triple_gradient">Degradado Triple de Perfil</string>
     <string name="reward_profile_description_color">Color de Descripción de Perfil</string>
     <string name="reward_name_font">Fuente de Nombre</string>
-    <string name="reward_already_owned_compensation">Listo. Fue convertido en Voidstones</string>
+    <string name="reward_already_owned_compensation">Listo, fue convertido en Voidstones.</string>
     <string name="purchase_id">ID de Compra: %d</string>
     <string name="history">Historial</string>
     <string name="voidstone_history">Historial de Voidstones</string>
@@ -210,16 +210,16 @@
     <string name="voidstone_gift_received">Regalo de Voidstone Recibido</string>
     <string name="voidstone_gift_send">Regalo de Voidstone Envidado</string>
     <string name="skin_bought">Skin Comprada</string>
-    <string name="profile_name_change_bought">Cambio de Nombre del Perfil Comprado</string>
-    <string name="profile_name_color_bought">Color de Nombre del Perfil Comprado</string>
+    <string name="profile_name_change_bought">Cambio de Nombre del Perfil comprado</string>
+    <string name="profile_name_color_bought">Color de Nombre del Perfil comprado</string>
     <string name="profile_color_bought">Color de Perfil Comprado</string>
-    <string name="profile_color_gradient_bought">Degradado de Perfil Comprado</string>
-    <string name="profile_color_gradient_2_bought">Degradado Doble de Perfil Comprado</string>
-    <string name="profile_name_font_bought">Fuente de Nombre del Perfil Desbloqueado</string>
+    <string name="profile_color_gradient_bought">Degradado de Perfil comprado</string>
+    <string name="profile_color_gradient_2_bought">Degradado Doble de Perfil comprado</string>
+    <string name="profile_name_font_bought">Fuente de Nombre del Perfil desbloqueado</string>
     <string name="admin_deduction">Deducción Admin</string>
     <string name="giveaway">Premio de Giveaway</string>
-    <string name="admin_reward_sent">Recompensa Admin Enviada</string>
-    <string name="admin_deduction_sent">Deducción Admin Enviada</string>
+    <string name="admin_reward_sent">Recompensa Admin enviada</string>
+    <string name="admin_deduction_sent">Deducción Admin enviada</string>
     <string name="verify_reward">Verificar Recompensa</string>
 
     <!-- Ads -->
@@ -272,18 +272,18 @@
     <string name="prerequisite_feature">Característica Requerida</string>
     <string name="profile_name_color">COLOR DE NOMBRE DEL PERFIL</string>
     <string name="profile_not_logged_in_error">No has iniciado Sesión. Por favor, Inicia Sesión primero.</string>
-    <string name="profile_name_changed_success">El Nombre de Perfil fue Cambiado a %s</string>
+    <string name="profile_name_changed_success">El Nombre de Perfil fue cambiado a %s</string>
     <string name="profile_name_change_failed">No se pudo cambiar el Nombre</string>
     <string name="profile_name_change_error">No se pudo cambiar el Nombre: %d</string>
     <string name="profile_goodbye">¡Adiós! :(</string>
     <string name="profile_logged_in_with_name">Iniciaste Sesión en %s</string>
     <string name="profile_logged_in">Iniciado Sesión…</string>
     <string name="profile_logout_confirm">¿Quieres Cerrar Sesión en %s?</string>
-    <string name="profile_logout_confirm_no_name">¿Quieres Finalizar la Sesión?</string>
-    <string name="profile_logout_all_confirm">¿Quieres Desconectar todos los dispositivos de %s? Esto puede tardar hasta una hora.</string>
-    <string name="profile_logout_all_confirm_no_name">¿Quieres Desconectar todos los dispositivos? Esto puede tardar hasta una hora.</string>
+    <string name="profile_logout_confirm_no_name">¿Quieres Cerrar la Sesión?</string>
+    <string name="profile_logout_all_confirm">¿Seguro(a) que quieres Desconectar todos los Dispositivos de %s? Esto puede tardar hasta una hora.</string>
+    <string name="profile_logout_all_confirm_no_name">¿Seguro(a) que quieres Desconectar todos los Dispositivos? Esto puede tardar hasta una hora.</string>
     <string name="profile_logout_failed">Error al Cerrar Sesión</string>
-    <string name="profile_delete_warning">¿Seguro que quieres Eliminar tu Cuenta Merg y todos los datos asociados? ¡ESTO ES IRREVERSIBLE!</string>
+    <string name="profile_delete_warning">¿Seguro(a) que quieres Eliminar tu Cuenta Merg y todos los datos asociados? ¡ESTO ES IRREVERSIBLE!</string>
     <string name="profile_delete_type_prompt">Escribe %s para confirmar la Eliminación de la Cuenta:</string>
     <string name="profile_delete_confirm_text">BORRAR</string>
     <string name="profile_delete_failed">Error al Eliminar la Cuenta</string>
@@ -311,7 +311,7 @@
     <string name="unlock_profile_colors_success">¡Colores de Perfil desbloqueados!</string>
     <string name="unlock_profile_colors_gradient_success">¡Degradado de perfil desbloqueado!</string>
     <string name="unlock_profile_colors_gradient_2_success">¡Degradado Doble de Perfil desbloqueado!</string>
-    <string name="unlock_profile_colors_already_unlocked">Ups, los Colores de Perfil ya fueron desbloqueados…</string>
+    <string name="unlock_profile_colors_already_unlocked">Ups, los Colores de Perfil ya fueron desbloqueados.</string>
     <string name="unlock_profile_colors_gradient_already_unlocked">Ups, el Degradado de Perfil ya fue desbloqueado.</string>
     <string name="unlock_profile_colors_gradient_2_already_unlocked">Ups, el Degradado Doble de Perfil ya fue desbloqueado.</string>
     <string name="profile_color_save_success">¡Colores de Perfil guardados!</string>
@@ -336,11 +336,11 @@
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">Enviar Voidstones</string>
     <string name="send_voidstones_to">Enviar %1$s Voidstones a ID: %2$d</string>
-    <string name="send_voidstones_confirm">¿Seguro que quieres enviar %1$s Voidstones a %2$s (ID: %3$d)?</string>
-    <string name="send_voidstones_self">Ups, no puedes enviarte Voidstones a ti mismo...</string>
+    <string name="send_voidstones_confirm">¿Seguro(a) que quieres Enviar %1$s Voidstones a %2$s (ID: %3$d)?</string>
+    <string name="send_voidstones_self">Ups, no puedes Enviarte Voidstones a ti mismo.</string>
     <string name="voidstone_gift_from">Recibiste %1$s Voidstones de (ID: %2$d)</string>
     <string name="voidstone_gift_to">Enviaste %1$s Voidstones a (ID: %2$d)</string>
-    <string name="voidstone_gift_from_label">Voidstone recibida:</string>
+    <string name="voidstone_gift_from_label">Voidstone Recibida:</string>
     <string name="voidstone_gift_to_label">Voidstone Enviada:</string>
     <string name="voidstone_gift_player">%1$s (ID: %2$d)</string>
     <string name="transaction_fee">Incluye %d%% de tarifa</string>
@@ -348,8 +348,8 @@
 
     <!-- Search Profile -->
     <string name="search_account">Buscar Cuenta</string>
-    <string name="search_account_by_id_or_name">Buscar Cuenta por el ID o el Nombre</string>
-    <string name="no_account_found">No se encontró ninguna Cuenta</string>
+    <string name="search_account_by_id_or_name">Buscar Cuenta por el ID o Nombre</string>
+    <string name="no_account_found">No se encontró Ninguna Cuenta</string>
 
     <!-- Clan -->
     <string name="clan_create">Crear Clan</string>
@@ -360,20 +360,20 @@
     <string name="clan_list">Clanes Públicos</string>
     <string name="clan_no_clans">No se encontraron Clanes</string>
     <string name="no_clan">Sin Clan</string>
-    <string name="clan_request_clans">Solicitar solo Clanes</string>
+    <string name="clan_request_clans">Solicitar Solo Clanes</string>
     <string name="clan_my_invites">Mis Invitaciones de Clan</string>
     <string name="clan_invite_declined">Invitación Rechazada.</string>
     <string name="clan_joined">¡Te uniste al Clan!</string>
-    <string name="clan_private">Ups, este Clan es Privado o ya no está activo.</string>
+    <string name="clan_private">Ups, este Clan es Privado o ya no está Activo.</string>
     <string name="clan_members">Miembros de Clan</string>
     <string name="clan_members_count">%1$d / %2$d miembros</string>
-    <string name="clan_request_join">Solicitar unirse al Clan/string>
+    <string name="clan_request_join">Solicitar Unirse al Clan/string>
     <string name="clan_leave">Salir del Clan</string>
-    <string name="clan_leave_confirm">¿Seguro que quieres salir del Clan?</string>
-    <string name="clan_owner_must_transfer">Debes transferir la Propiedad a otro Miembro antes de salirte.</string>
+    <string name="clan_leave_confirm">¿Seguro(a) que quieres salir del Clan?</string>
+    <string name="clan_owner_must_transfer">Debes Transferir la Propiedad a otro Miembro antes de salirte.</string>
     <string name="clan_request_sent">Solicitud de Ingreso Enviada.</string>
     <string name="clan_disband">Vaciar Clan</string>
-    <string name="clan_disband_confirm">¿Seguro que quieres Vaciar este Clan? ¡Esto no tiene vuelta atrás!</string>
+    <string name="clan_disband_confirm">¿Seguro(a) que quieres Vaciar este Clan? ¡Esto no tiene vuelta atrás!</string>
     <string name="clan_invite">Invitar Jugador</string>
     <string name="clan_invite_hint">Invitar por ID o Nombre</string>
     <string name="clan_settings">Configuración de clan</string>
@@ -394,16 +394,16 @@
     <string name="clan_promoted">Ascender a %1$s.</string>
     <string name="clan_demoted">Descender a %1$s.</string>
     <string name="clan_kick_confirm_title">Expulsar Miembro</string>
-    <string name="clan_kick_confirm_message">¿Seguro que quieres Expulsar a \"%1$s\" (ID: %2$d) del Clan? Podrá volver a unirse con Invitación.</string>
+    <string name="clan_kick_confirm_message">¿Seguro que quieres Expulsar a \"%1$s\" (ID: %2$d) del Clan? Podrá volver a Unirse con Invitación.</string>
     <string name="clan_ban_confirm_title">Banear miembro</string>
-    <string name="clan_ban_confirm_message">¿Seguro que quieres Banear a \"%1$s\" (ID: %2$d) del clan? Ya no podrá unirse.</string>
+    <string name="clan_ban_confirm_message">¿Seguro(a) que quieres Banear a \"%1$s\" (ID: %2$d) del clan? Ya no podrá Unirse.</string>
     <string name="clan_unban_confirm_title">Desbanear Exmiembro</string>
-    <string name="clan_unban_confirm_message">¿Seguro que quieres Desbanear a \"%1$s\" (ID: %2$d)? Podrá volver a unirse.</string>
+    <string name="clan_unban_confirm_message">¿Seguro(a) que quieres Desbanear a \"%1$s\" (ID: %2$d)? Podrá volver a Unirse.</string>
     <string name="clan_unkick_confirm_title">Readmitir Miembro</string>
-    <string name="clan_unkick_confirm_message">¿Seguro que quieres Readmitir a \"%1$s\" (ID: %2$d)? Podrá volver a unirse.</string>
+    <string name="clan_unkick_confirm_message">¿Seguro(a) que quieres Readmitir a \"%1$s\" (ID: %2$d)? Podrá volver a Unirse.</string>
     <string name="clan_invited">Invitado</string>
     <string name="clan_revoke_invite_confirm_title">Anular Invitación</string>
-    <string name="clan_revoke_invite_confirm_message">¿Seguro que quieres Anular la Invitación para \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_revoke_invite_confirm_message">¿Seguro(a) que quieres Anular la Invitación para \"%1$s\" (ID: %2$d)?</string>
     <string name="clan_invite_sent">¡Invitación Enviada!</string>
     <string name="clan_player_not_found">Jugador no Encontrado.</string>
     <string name="clan_player_banned">Ups, este Jugador está Baneado del Clan.</string>
@@ -433,12 +433,12 @@
     <string name="clan_history_id">Historial de ID: %d</string>
     <string name="clan_public_profile">Perfil de Clan Público</string>
     <string name="clan_kicked_banned_players">Jugadores Expulsados/Baneados</string>
-    <string name="clan_unkick_confirm">¿Seguro que quieres Readmitir a \"%1$s\" (ID: %2$d)?</string>
-    <string name="clan_unban_confirm">¿Seguro que quieres Desbanear a \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm">¿Seguro(a) que quieres Readmitir a \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unban_confirm">¿Seguro(a) que quieres Desbanear a \"%1$s\" (ID: %2$d)?</string>
     <string name="clan_search_hint">Buscar por ID o por Nombre</string>
     <string name="clan_promote_to_owner">Ascender a Líder</string>
     <string name="clan_transfer_ownership_title">Transfeir Propiedad</string>
-    <string name="clan_transfer_ownership_message">¿Seguro que quieres Ascender a \"%1$s\" (ID: %2$d) como Líder. Serás Degradado a Colíder. Esta acción es irreversible.\n\nType el jugador\'s ID confirmar:</string>
+    <string name="clan_transfer_ownership_message">¿Seguro(a) que quieres Ascender a \"%1$s\" (ID: %2$d) como Líder. Serás Degradado a Colíder. Esta acción es irreversible.\n\nType el jugador\'s ID confirmar:</string>
     <string name="clan_transfer_ownership_id_mismatch">La ID no coincide</string>
     <string name="clan_customize_name_color">Color de Nombre del Clan/string>
     <string name="clan_customize_tag_color">Color de Siglas del Clan</string>
@@ -456,7 +456,7 @@
     <string name="clan_name_color_save_failed">Ups, no se pudo guardar el Color de Nombre del Clan.</string>
     <string name="clan_name_font">Fuente de Nombre del Clan</string>
     <string name="clan_name_font_saved">¡Fuente de Nombre del Clan guardada!</string>
-    <string name="clan_name_font_save_failed">Ups, no se pudo guardar la Fuente del Clan...</string>
+    <string name="clan_name_font_save_failed">Ups, no se pudo guardar la Fuente del Clan.</string>
     <string name="clan_description_saved">Descripción de Clan guardada.</string>
     <string name="clan_description_save">Guardar Descripción de Clan</string>
     <string name="clan_description_save_failed">Ups, no se pudo guardar la Descripción del Clan.</string>
@@ -530,9 +530,9 @@
     <string name="mail_title_hint">Asunto del Correo</string>
     <string name="mail_content_hint">Cuerpo del Correo</string>
     <string name="mail_recipient_not_found">El Destinatario no fue Encontrado</string>
-    <string name="mail_send_to_self">Ups, no puedes Enviarte un Correo a ti mismo...</string>
-    <string name="mail_title_too_long">Ups, el Asunto del Correo es demasiado largo...</string>
-    <string name="mail_content_too_long">Ups, el Cuerpo del Correo es demasiado largo...</string>
+    <string name="mail_send_to_self">Ups, no puedes Enviarte un Correo a ti mismo.</string>
+    <string name="mail_title_too_long">Ups, el Asunto del Correo es demasiado largo.</string>
+    <string name="mail_content_too_long">Ups, el Cuerpo del Correo es demasiado largo.</string>
     <string name="mail_sent_success">Correo Enviado</string>
     <string name="mark_unread">Marcar como No Leído</string>
     <string name="copy_verification_code">Copiar Código de Verificación</string>
@@ -689,11 +689,11 @@
     <string name="dialog_confirm">Confirmar</string>
     <string name="dialog_confirm_account_deletion">ELIMINAR CUENTA</string>
     <string name="dialog_leave_game">¿Salir del Juego?</string>
-    <string name="dialog_respawn_warning">¿Seguro que quieres Reaparecer? Perderás toda tu Masa.</string>
+    <string name="dialog_respawn_warning">¿Seguro(a) que quieres Reaparecer? Perderás toda tu Masa.</string>
     <string name="dialog_change_language">¿Quieres cambiar el Idioma a %s? La Aplicacion necesita Cerrarse.</string>
     <string name="dialog_connection_error">Error de Conexión</string>
     <string name="dialog_disconnected">Desconectado</string>
-    <string name="dialog_disconnected_message">Ups, se ha perdido la Conexión con el Servidor...</string>
+    <string name="dialog_disconnected_message">Ups, se ha perdido la Conexión con el Servidor.</string>
     <string name="kicked_from_room">Ups, has sido Expulsado de la Sala.</string>
     <string name="banned_from_room">Ups, has sido Baneado de la Sala.</string>
     <string name="enter_room_name">Escribe el Nombre de la Sala</string>
@@ -710,7 +710,7 @@
     <string name="dialog_no">NO</string>
     <string name="dialog_ok">OKEY</string>
     <string name="dialog_copy">COPIADO</string>
-    <string name="dialog_notice">NOTICIA</string>
+    <string name="dialog_notice">Noticia</string>
     <string name="dialog_warning">Advertencia</string>
     <string name="dialog_alert">Alerta</string>
     <string name="dialog_dont_show_again">No Volver a Mostrar</string>
@@ -727,11 +727,11 @@
     <!-- Block Player -->
     <string name="blocked_players">Jugadores Bloqueados</string>
     <string name="no_blocked_players">Sin Jugadores Bloqueados</string>
-    <string name="unblock_confirm_message">¿Seguro que quieres Desbloquear a \"%1$s\" (ID: %2$d)?</string>
+    <string name="unblock_confirm_message">¿Seguro(a) que quieres Desbloquear a \"%1$s\" (ID: %2$d)?</string>
     <string name="block_player">Bloquear Jugador</string>
     <string name="unblock_player">Desbloquear Jugador</string>
     <string name="block_confirm_title">Bloquear Jugador</string>
-    <string name="block_confirm_message">¿Seguro que quieres Bloquear a %s? No podrán enviarse Correos, Solicitudes de Amistad y ambos serán Eliminados de sus Listas de Amigos.</string>
+    <string name="block_confirm_message">¿Seguro(a) que quieres Bloquear a %s? No podrán enviarse Correos, Solicitudes de Amistad y ambos serán Eliminados de sus Listas de Amigos.</string>
     <string name="player_unblocked">Jugador desbloqueado</string>
     <string name="player_blocked">Jugador Bloqueado</string>
     <string name="you_blocked_user">Has Bloqueado a este Jugador</string>
@@ -757,9 +757,9 @@
     <string name="player_list_count">Jugadores: %d ⋅ Bots: %d ⋅ Total: %d</string>
     <string name="player_list_count_with_spectators">Jugadores: %d ⋅ Bots: %d ⋅ Espectadores: %d ⋅ Total: %d</string>
     <string name="kick_confirm_title">Expulsar de la Sala</string>
-    <string name="kick_confirm_message">¿Seguro que quieres Expulsar a %s de esta Sala?. Puede volver a Unirse.</string>
+    <string name="kick_confirm_message">¿Seguro(a) que quieres Expulsar a %s de esta Sala?. Puede volver a Unirse.</string>
     <string name="ban_confirm_title">Banear de la Sala</string>
-    <string name="ban_confirm_message">¿Seguro que quieres Banear a %s de esta Sala?. ¡No podrá volver a Unirse y esta acción no se puede deshacer!</string>
+    <string name="ban_confirm_message">¿Seguro(a) que quieres Banear a %s de esta Sala?. ¡No podrá volver a Unirse y esta acción no se puede deshacer!</string>
 
     <!-- Custom Images -->
     <string name="custom_images">Skin Personalizada</string>
@@ -790,7 +790,7 @@
     <string name="custom_image_skin_load_failed">Ups, no se pudo cargar la Skin Personalizada: %1$s</string>
     <string name="custom_image_no_approved_image">No hay Skins Personalizadas Aprobadas en el espacio: %1$d</string>
     <string name="report_avatar">Reportar Skin Personalizada</string>
-    <string name="report_avatar_message">¿Seguro que quieres Reportar la Skin Personalizada de %1$s?</string>
+    <string name="report_avatar_message">¿Seguro(a) que quieres Reportar la Skin Personalizada de %1$s?</string>
     <string name="report_avatar_success">Skin Personalizada Reportada</string>
     <string name="report_avatar_failed">Ups, no se pudo Reportar la Skin Personalizada.</string>
 
@@ -933,9 +933,9 @@
     <string name="code_not_found">Códido Inválido</string>
     <string name="code_expired">Código Expirado</string>
     <string name="code_already_redeemed">Ups, el Código ya ha sido Canjeado!</string>
-    <string name="clan_owner_must_transfer_error">Ups, debes Transferir la Propiedad a otro Miembro antes de Abandonar el Clan...</string>
-    <string name="mail_cannot_send_self">Ups, no puedes Enviarte Correo a ti mismo...</string>
-    <string name="clan_already_requested_other">Ups, ya Solicitaste Unirse a este Clan...</string>
+    <string name="clan_owner_must_transfer_error">Ups, debes Transferir la Propiedad a otro Miembro antes de Abandonar el Clan.</string>
+    <string name="mail_cannot_send_self">Ups, no puedes Enviarte Correo a ti mismo.</string>
+    <string name="clan_already_requested_other">Ups, ya Solicitaste Unirse a este Clan.</string>
     <string name="before">Antes</string>
     <string name="after">Después</string>
 </resources>
